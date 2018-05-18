@@ -4,7 +4,9 @@
 该表使用的数据资料均来源于[KC日文wiki](https://wikiwiki.jp/kancolle/%E6%94%B9%E4%BF%AE%E5%B7%A5%E5%BB%A0 "改修工廠")，表格改造由我独立完成，所有内容均无加密，支持使用者自行维护以及开发。  
 因能力有限，既不能以KC辅助工具的插件及独立应用等形式将其呈现，恐怕也难以提供进一步的技术支持，还请谅解。
     
-    此位置待补充规划表的截图
+![改修规划](https://github.com/SightSigh/Admiral-s-Projects/blob/master/%E6%94%B9%E4%BF%AE%E8%A7%84%E5%88%92.png "改修规划")
+![当期统计](https://github.com/SightSigh/Admiral-s-Projects/blob/master/%E5%BD%93%E6%9C%9F%E7%BB%9F%E8%AE%A1.png "当期统计")
+![预期收入](https://github.com/SightSigh/Admiral-s-Projects/blob/master/%E9%A2%84%E6%9C%9F%E6%94%B6%E5%85%A5.png "预期收入")
     
     备注：该表格默认为2560*1440分辨率优化，请在高分辨率的设备上使用以获得最佳效果。
     显示效果可以根据使用设备的条件进行自行调整，详见后文“自行维护”部分的相关说明。
