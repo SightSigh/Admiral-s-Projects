@@ -1,6 +1,7 @@
 # Admiral-s-Projects
 # 提督的改修规划表
 
+![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)  
 该表使用的数据资料均来源于[KC日文wiki](https://wikiwiki.jp/kancolle/%E6%94%B9%E4%BF%AE%E5%B7%A5%E5%BB%A0 "改修工廠")，表格改造由本人独立完成，所有公式均无加密，支持使用者二次开发与维护。  
 因能力有限，既不能以KC辅助工具的插件及独立应用等形式将其呈现，恐怕也难以提供进一步的技术支持，还请谅解。
     
