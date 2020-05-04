@@ -3,8 +3,8 @@
 ##### 改修数据同步至200423更新的版本
 * 新增【Bofors15.2cm連装砲 Model1930】【Skua】【九七式艦攻(友永隊)】【S9 Osprey】  
   【Swordfish Mk.II改(水偵型)】【Swordfish Mk.III改(水上機型)】相关改修数据
-* 调整 Warspite 的可改修装备与值班时间，包括【38.1cm Mk.I/N連装砲改】【Swordfich（水上機型）】【Spitfire Mk.I】
-    * 【Swordfich（水上機型）】现在只能以助手 Warspite 进行更新
+* 调整 Warspite 的可改修装备与值班时间，包括【38.1cm Mk.I/N連装砲改】【Swordfish(水上機型)】【Spitfire Mk.I】
+    * 【Swordfish(水上機型)】现在只能以助手 Warspite 进行更新
 * 调整【Spitfire Mk.I】助手 ArkRoyal 的值班时间
 * 调整【一式戦 隼II型】助手 神威 的值班时间
 * 调整【Swordfish(水上機型)】助手 Gotland 的值班时间
@@ -13,7 +13,7 @@
 
 ## 3.0.14.2003
 ##### 改修数据同步至200327更新的版本
-* 新增【Swordfich】【Swordfich（水上機型）】【Late 298B】相关改修数据
+* 新增【Swordfich】【Swordfish(水上機型)】【Late 298B】相关改修数据
 
 
 ## 3.0.13.2002
